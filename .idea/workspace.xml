@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12f3d06-7b19-4a0b-9068-24de8d78ba34" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/introAssignments/IntroExercises.class" afterPath="$PROJECT_DIR$/out/production/introAssignments/IntroExercises.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/IntroExercises.java" afterPath="$PROJECT_DIR$/src/IntroExercises.java" />
     </list>
@@ -29,7 +27,7 @@
       <file leaf-file-name="info.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/info.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3660">
+            <state relative-caret-position="3220">
               <caret line="77" column="103" selection-start-line="77" selection-start-column="103" selection-end-line="77" selection-end-column="103" />
               <folding />
             </state>
@@ -39,9 +37,13 @@
       <file leaf-file-name="IntroExercises.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IntroExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="283">
+              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <folding>
+                <element signature="method#horizontalLine#0;class#IntroExercises#0" expanded="false" />
+                <element signature="method#verticalLine#0;class#IntroExercises#0" expanded="false" />
+                <element signature="method#rightTriangle#0;class#IntroExercises#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -443,6 +445,14 @@
       <option name="presentableId" value="Default" />
       <updated>1530051663029</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added right triangle">
+      <created>1530129502399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530129502399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -488,6 +498,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added right triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added right triangle" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -509,7 +523,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="method#horizontalLine#0;class#IntroExercises#0" expanded="false" />
+            <element signature="method#verticalLine#0;class#IntroExercises#0" expanded="false" />
+            <element signature="method#rightTriangle#0;class#IntroExercises#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -531,7 +549,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/info.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3660">
+        <state relative-caret-position="3220">
           <caret line="77" column="103" selection-start-line="77" selection-start-column="103" selection-end-line="77" selection-end-column="103" />
           <folding />
         </state>
@@ -539,9 +557,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IntroExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="283">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <folding>
+            <element signature="method#horizontalLine#0;class#IntroExercises#0" expanded="false" />
+            <element signature="method#verticalLine#0;class#IntroExercises#0" expanded="false" />
+            <element signature="method#rightTriangle#0;class#IntroExercises#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

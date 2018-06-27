@@ -6,10 +6,12 @@ import java.util.Scanner;
 public class IntroExercises {
 
     public IntroExercises(){
+        isoTriangle();
         asterisk();
         horizontalLine();
         verticalLine();
         rightTriangle();
+
     }
     private void asterisk(){
         System.out.print("Asterisk: \n");
@@ -49,6 +51,25 @@ public class IntroExercises {
             }
             System.out.println();
             count++;
+        }
+    }
+
+    private void isoTriangle(){
+        System.out.print("Right Triangle: \n");
+        System.out.print("\tInput triangle height:");
+        Scanner userIn = new Scanner(System.in);
+        int n = userIn.nextInt();
+        int count = 1;
+
+        for (int i = 0; i < n; i++){
+            for (int k = count; k <= n; k++){
+                System.out.print(" ");
+            }
+            for (int j = 0; j < count; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+            count += 2;
         }
     }
 }

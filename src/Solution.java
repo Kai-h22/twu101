@@ -3,7 +3,7 @@
  */
 public class Solution {
     public static void main(String [] args){
-        IntroExercises intro = new IntroExercises();
+        IntroExercises intro = new IntroExercises(48);
 
     }
 }
